@@ -9,6 +9,8 @@ LLANOS ROMERO, DAVID ANTONIO - 20201638
 AGREDA VARGAS, OSCAR ANTONIO - 20193315
 LUJAN FERNANDEZ, ANDRES RODRIGO - 20191450
 ROJAS ZARATE, DIEGO MAURICIO - 20191267
+
+
 Instrucciones para correr la app:
 
 • En un servidor linux ya sea una vm de aws o cualquier vm
@@ -19,4 +21,5 @@ Instrucciones para correr la app:
 4) Luego ya podrás graficar en grafana mediante querys accediendo a http://<IP>:3000/
 5) Adjunto el dashboard que puede ser importado en grafana para que se pueda visualziar distintos tipos de gráficos
 6) LISTO 
+
 
