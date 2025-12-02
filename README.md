@@ -3,6 +3,7 @@
 Grupo - Proyecto - Sensor de ruido
 
 Integrantes:
+
 TACURI FLORES, BRANDON RAFAEL - 20215433
 
 ALVARADO PERALTA, JESUS ANTONIO - 20211688
@@ -26,6 +27,7 @@ Instrucciones para correr la app:
 4) Luego ya podrás graficar en grafana mediante querys accediendo a http://<IP>:3000/
 5) Adjunto el dashboard que puede ser importado en grafana para que se pueda visualziar distintos tipos de gráficos
 6) LISTO 
+
 
 
 
